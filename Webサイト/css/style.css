@@ -1,0 +1,78 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer{
+    text-align: left;
+    padding: 10px 20px;
+}
+
+main{
+    padding: 20px;
+}
+
+section{
+    margin-bottom: 20px;
+}
+
+h1, h2{
+    color: white;
+}
+
+p{
+    margin-bottom: 10px;
+}
+h1 {
+    margin-bottom: 4px; /* h1の下の余白を設定 */
+}
+
+h2 {
+    margin-top: 4px; /* h2の上の余白を設定 */
+}
+.underline {
+    border: none;
+    border-bottom: 5px solid blue; /* 下線を追加 */
+    width: 50%;
+    margin-bottom: 20px; /* 下線とセクションの間に余白を追加 */
+    margin-right: 50%;
+}
+.underline1 {
+    border: none;
+    border-bottom: 5px solid blue; /* 下線を追加 */
+    width: 30%;
+    margin-bottom: 20px; /* 下線とセクションの間に余白を追加 */
+    margin-right: 80%;
+}
+.underline2 {
+    border: none;
+    border-bottom: 5px solid blue; /* 下線を追加 */
+    width: 30%;
+    margin-bottom: 20px; /* 下線とセクションの間に余白を追加 */
+    margin-right: 80%;
+}
+.underline3 {
+    border: none;
+    border-bottom: 5px solid blue; /* 下線を追加 */
+    width: 30%;
+    margin-bottom: 20px; /* 下線とセクションの間に余白を追加 */
+    margin-right: 80%;
+}
+.underline4 {
+    border: none;
+    border-bottom: 5px solid blue; /* 下線を追加 */
+    width: 30%;
+    margin-bottom: 20px; /* 下線とセクションの間に余白を追加 */
+    margin-right: 80%;
+}
+.underline5 {
+    border: none;
+    border-bottom: 5px solid blue; /* 下線を追加 */
+    width: 30%;
+    margin-bottom: 20px; /* 下線とセクションの間に余白を追加 */
+    margin-right: 80%;
+}
+
